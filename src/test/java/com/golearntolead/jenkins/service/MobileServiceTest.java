@@ -11,7 +11,7 @@ public class MobileServiceTest {
 
     @Test
     void test(){
-        log.info("The Test case also started : ----> ");
+        log.info("The Test case started : ----> ");
         assertEquals(true, true);
     }
 }
